@@ -148,7 +148,12 @@ font-size: 27px;
     
     
 }
+.p-color{
 
+  
+    color: crimson;
+
+}
 @keyframes text{
 
         0%{
@@ -157,7 +162,7 @@ font-size: 27px;
         }
             100%{
 
-                width: 14ch;
+                width: 15ch;
             }
 
 }
